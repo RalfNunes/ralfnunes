@@ -17,14 +17,13 @@
 
 ###
 
-<br clear="both">
+## Contact 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ralf-nunes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
 
 <!--
 **RalfNunes/ralfnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
