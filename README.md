@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 <!--
 **RalfNunes/ralfnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
