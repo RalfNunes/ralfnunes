@@ -27,12 +27,12 @@
 </div>
 
 ###
-<!-- 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/RalfNunes/RalfNunes/blob/output/github-contribution-grid-snake.svg)
 
+<!-- 
 ###
 
 **RalfNunes/ralfnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
