@@ -28,12 +28,11 @@
 
 ###
 
+![Snake animation](https://github.com/ralfnunes/ralfnunes/blob/output/github-contribution-grid-snake.svg)  
 
 <!-- 
 ###
 <br clear="both">
-
-![snake gif](https://github.com/RalfNunes/ralfnunes/blob/output/github-contribution-grid-snake.svg)
 
 
 **RalfNunes/ralfnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
