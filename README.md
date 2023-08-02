@@ -31,7 +31,7 @@
 [Snake animation](https://github.com/RalfNunes/ralfnunes/blob/output/github-contribution-grid-snake.svg)
 
 
-<!-- [Snake animation](https://github.com/ralfnunes/ralfnunes/blob/output/github-contribution-grid-snake.svg) --!>
+[Snake animation](https://github.com/ralfnunes/ralfnunes/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 ###
